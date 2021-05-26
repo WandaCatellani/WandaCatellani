@@ -53,3 +53,7 @@
 <a href="https://firebase.google.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/></a>
 </p>
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwand7&show_icons=true&hide_border=true)))]
