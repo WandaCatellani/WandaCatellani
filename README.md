@@ -1,5 +1,5 @@
 
-<img align="right" src="https://media.giphy.com/media/10GN73YGycPXQk/giphy.gif" alt="https://www.linkedin.com/in/wan-catellani/" height="100" width="100" />
+<!-- <img align="right" src="https://media.giphy.com/media/10GN73YGycPXQk/giphy.gif" alt="https://www.linkedin.com/in/wan-catellani/" height="100" width="100" /> -->
 
 <h1 align="center">Hi! 👋, I'm Wanda Catellani</h1>
                         
