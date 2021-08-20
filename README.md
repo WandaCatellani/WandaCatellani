@@ -61,6 +61,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandacatellani&layout=compact&langs_count=5&theme=dracula)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wandacatellani&label=Profile%20views&color=0e75b6&style=flat" alt="wandacatellani" /> </p>
-
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{wandacatellani}/count.svg) -->
