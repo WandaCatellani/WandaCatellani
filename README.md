@@ -63,4 +63,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wandacatellani&label=Profile%20views&color=0e75b6&style=flat" alt="wandacatellani" /> </p>
 
-![Visitor Count](https://profile-counter.glitch.me/{wandacatellani}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{wandacatellani}/count.svg) -->
