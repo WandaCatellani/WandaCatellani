@@ -58,7 +58,7 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwand7&theme=dracula&show_icons=true&hide_border=true) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwand7&layout=compact&langs_count=5&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandacatellani&layout=compact&langs_count=5&theme=dracula)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wandacatellani&label=Profile%20views&color=0e75b6&style=flat" alt="wandacatellani" /> </p>
