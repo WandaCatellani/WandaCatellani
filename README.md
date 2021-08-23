@@ -63,3 +63,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wandacatellani&label=Profile%20views&color=0e75b6&style=flat" alt="wandacatellani" /> </p>
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{wandacatellani}/count.svg) -->
+
+![Snake animation](https://github.com/WandaCatellani/WandaCatellani/blob/output/github-contribution-grid-snake.svg)
