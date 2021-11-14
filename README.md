@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CoderHouse](https://www.coderhouse.com)
 
-- 🌱 I’m currently learning **Full Stack Developer**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **catellaniw@gmail.com**
 
