@@ -63,7 +63,7 @@
 
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wandacatellani) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandacatellani&layout=compact&langs_count=5&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandacatellani&layout=compact&langs_count=5&theme=dracula&hide_border=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wandacatellani&label=Profile%20views&color=0e75b6&style=flat" alt="wandacatellani" /> </p>
 
