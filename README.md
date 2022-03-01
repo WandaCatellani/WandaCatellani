@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CoderHouse](https://www.coderhouse.com) and freelance
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Vue JS**
 
 - 📫 How to reach me **catellaniw@gmail.com**
 
