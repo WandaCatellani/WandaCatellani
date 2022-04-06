@@ -68,7 +68,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wandacatellani&label=Profile%20views&color=0e75b6&style=flat" alt="wandacatellani" /> </p>
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{wandacatellani}/count.svg) -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/WandaCatellani/github-profile-trophy) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/WandaCatellani/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=WandaCatellani&rank=S,A,AA)](https://github.com/WandaCatellani/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=WandaCatellani&theme=dracula&title=Followers,Repositories,Commits)](https://github.com/WandaCatellani/github-profile-trophy)
 
 ![Snake animation](https://github.com/WandaCatellani/WandaCatellani/blob/output/github-contribution-grid-snake.svg)
