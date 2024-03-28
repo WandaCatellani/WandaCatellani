@@ -5,7 +5,7 @@
                         
 <h3 align="center" height="80" width="80">✨ A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [CoderHouse](https://www.coderhouse.com/), [NovazGroup](https://novazgroup.com/) and freelance
+- 🔭 I’m currently working on [CoderHouse](https://www.coderhouse.com/), [Be The Driver](https://bethedriver.global/es/inicio/) and freelance
 
 <!--- 🌱 I’m currently learning **Vue JS** -->
 
